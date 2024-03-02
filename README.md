@@ -12,6 +12,7 @@
 - 🔭 I'm currently working on *several Machine Learning topics* and implementing *projects*
 - 📝 Learning *ETL and Data Pipelines with Shell, Airflow, and Kafka, a course by **IBM*
 - 📫 You can reach me at *sudiksha.acharyaa7@gmail.com*
+- 📄 Previous Experience: Data Analytics and Engineering at HSBC
 
 - ⚡ Fun fact: *Outside of data, I enjoy dancing, exploring trails, and watching horror movies. I love mental challenges, from deciphering data to cracking riddles! 🕵️‍♂️🎬💃*
 
@@ -21,7 +22,7 @@
 </p>
 
 <h1 align="left">Skill Set</h1>
-Below are some of the key technologies I actively utilize or have hands-on experience with in my professional journey:<br/> <br/>
+Below are some of the critical technologies I actively utilize or have hands-on experience within my professional journey:<br/> <br/>
 
 *Programming Languages*<br/>
 
